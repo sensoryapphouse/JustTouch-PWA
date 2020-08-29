@@ -1,0 +1,32 @@
+{
+  "name": "Just Touch PWA",
+  "short_name": "Just Touch",
+  "icons": [{
+    "src": "images/justtouch-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "images/justtouch-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/justtouch-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "images/justtouch-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "images/justtouch-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "images/justtouch-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
